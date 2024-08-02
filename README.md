@@ -1,8 +1,16 @@
-# React + Vite
+# Descreption
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Football Live Clone is a dynamic website built with React.
+The site provides real-time updates,matches, scores, and detailed match information.
+It showcases modern front-end development practices using React and responsive design principles.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+This is the orignal website Football live.
+https://github.com/user-attachments/assets/2463758b-7022-415a-ae94-08207ad334ee
+
+
+
+This is my clone.
+https://github.com/user-attachments/assets/f78b0575-b272-43fb-9fd6-ed433f898e3b
+

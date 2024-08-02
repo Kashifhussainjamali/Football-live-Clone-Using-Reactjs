@@ -1,0 +1,42 @@
+.match{
+    list-style: none;
+    display: flex;
+    background-color: rgb(44, 44, 44);
+    padding: 5px;
+    border-radius: 5px;
+    width: 440px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.flgs{
+    height: 20px;
+    background-color: rgb(44, 44, 44);
+}
+.ft{
+    color: rgb(150, 150, 150);
+    font-size: 12px;
+    margin-top: 15px;
+    background-color: rgb(44, 44, 44);
+    margin-right: 7px;
+}
+.names{
+    color: rgb(150, 150, 150);
+    background-color: rgb(44, 44, 44);
+    font-size: 15px;
+    margin-top: 3px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.star{
+    margin-left: 30px;
+    background-color: rgb(44, 44, 44);
+    margin-top: 7px;
+    margin-left: 175px;
+}
+.lii{
+    background-color: rgb(44, 44, 44);
+}
+.star1{
+    height: 20px;
+    background-color: rgb(44, 44, 44);
+}

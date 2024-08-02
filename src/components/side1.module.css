@@ -1,0 +1,27 @@
+.input{
+    border: none;
+    width: 130px;
+    margin-left: 3px;
+}
+.side1main{
+    border: 1px solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 855px;
+    padding-top: 15px;
+    padding-left: 3px;
+    margin-left: 230px;
+}
+.search{
+    margin-left:10px;
+    padding-top: 10px;
+}
+.textform{
+    font-size: 14px;
+    color: rgb(185, 185, 185);
+    margin-left: 10px;
+    margin: 10px;
+}
+.side1line{
+    color: rgb(71, 71, 71);
+}

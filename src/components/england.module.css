@@ -1,0 +1,20 @@
+.text11{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    background-color: rgb(36, 35, 35);
+}
+.img1{
+    background-color: rgb(36, 35, 35);
+    height: 20px;
+    margin-right: 8px;
+}
+.englandmain{
+    padding: 5px;
+    background-color: rgb(36, 35, 35);
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 8px;
+    margin-top: 3px;
+}

@@ -1,0 +1,44 @@
+.live{
+    list-style: none;
+    display: flex;
+}
+.livebtn{
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+.livetext1{
+    margin: 0;
+    padding: 0;
+    color: rgb(150, 149, 149);
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.livetext12{
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 153, 0);
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.livetext2{
+    margin: 0;
+    padding: 0;
+    color: rgb(150, 149, 149);
+    font-size: 10px;
+    font-weight: bold;
+}
+.livetext22{
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 153, 0);
+    font-size: 10px;
+    font-weight: bold;
+}
+.livelist{
+    margin-left: 40px;
+}

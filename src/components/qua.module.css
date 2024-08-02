@@ -1,0 +1,44 @@
+.text1{
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    /* background-color: rgb(36, 35, 35); */
+
+}
+.img2{
+    /* background-color: rgb(36, 35, 35); */
+    height: 20px;
+    margin-right: 10px;
+    margin-top: 7px;
+
+}
+.dive{
+    display: flex;
+    padding: 5px;
+    /* background-color: rgb(36, 35, 35); */
+    width: 170px;
+    height: 45px;
+    border-radius: 5px;
+    margin-left: 8px;
+    margin-top: 3px;
+}
+.mer{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 14px;
+    /* background-color: rgb(36, 35, 35); */
+}
+.eng{
+    font-size: 9px;
+    margin: 0;
+    padding: 0;
+    color: silver;
+    /* background-color: rgb(36, 35, 35); */
+    
+}
+.arrow{
+    height: 15px;
+    margin-top: 10px;
+    margin-left: 310px;
+}

@@ -1,0 +1,15 @@
+.side2main{
+    border: 1px solid rgb(46, 45, 45);
+    width: 470px;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding-top: 15px;
+}
+.side2line{
+    color: rgb(71, 71, 71);
+}
+.add2{
+    border-radius: 10px;
+    margin-left: 10px;
+
+}

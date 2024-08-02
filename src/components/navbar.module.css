@@ -1,0 +1,18 @@
+.ull{
+    display: flex;
+    list-style: none;
+    margin-top: 40px;
+    margin-left: 100px;
+
+}
+.lii{
+    font-weight: bold;
+    color: rgb(153, 152, 152);
+    margin-left: 90px;
+}
+.sc{
+    color: rgb(255, 136, 0);
+}
+.imgg{
+    margin-right: 5px;
+}
